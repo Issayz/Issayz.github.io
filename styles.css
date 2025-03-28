@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: src="https://fastly.picsum.photos/id/989/1920/1089.jpg?hmac=R6A4Xs-YFfLVUus61WzxkUx6hYWuK1uY38x9Y7Ta_zY");
+    background-image: url("https://fastly.picsum.photos/id/989/1920/1089.jpg?hmac=R6A4Xs-YFfLVUus61WzxkUx6hYWuK1uY38x9Y7Ta_zY");
 }
 
 .caixa-maior {
@@ -81,4 +81,3 @@ body {
     color: #ffffff;
     margin-top: 20px;
 }
-
